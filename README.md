@@ -3,6 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/LopezBanos?style=social)]()
 
 
+![alt text](https://ibb.co/JxC9ts4)
 
 ## Hi, I'm Sergio👋
 Currently a physicist student interested in coding skills related to physics:
