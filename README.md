@@ -7,12 +7,9 @@
 ## Hi, I'm Sergio👋
 Currently a physicist student interested in coding skills related to physics:
 
-• Algorithms to solve non-analytical problems.
-</div>
-• Visualizing Physics
-</div>
-• Development of tensor schedulers for spending machine learning computations.
-</div>
+• Algorithms to solve non-analytical problems.  
+• Visualizing Physics.  
+• Development of tensor schedulers for spending machine learning computations.  
 • Parallel Computing.
 
 <div align="center">
