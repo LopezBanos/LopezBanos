@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Sergio👋
 [![Followers](https://img.shields.io/github/followers/LopezBanos?style=social)]()
 [![Stars](https://img.shields.io/github/stars/LopezBanos?style=social)]()
 
