@@ -5,6 +5,13 @@
 
 
 ## Hi, I'm Sergio👋
+Currently a physicist student interested in coding skills related to physics:
+
+• Algorithms to solve non-analytical problems.
+• Visualizing Physics
+• Development of tensor schedulers for spending machine learning computations.
+• Parallel Computing.
+
 <div align="center">
   <a href="https://github.com/LopezBanos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LopezBanos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
