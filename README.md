@@ -34,5 +34,4 @@ const LopezBanos = {
 
 ---
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
