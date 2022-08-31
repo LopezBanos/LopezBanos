@@ -34,7 +34,7 @@ const LopezBanos = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
 
@@ -81,13 +81,14 @@ Sunday       16 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   2 hrs 36 mins       █████████████████████████   100.0%
+Python                   2 hrs 49 mins       ████████████████████████░   98.92% 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
 
 🔥 Editors: 
-PyCharm                  2 hrs 36 mins       █████████████████████████   100.0%
+PyCharm                  2 hrs 51 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      2 hrs 36 mins       █████████████████████████   100.0%
+Mac                      2 hrs 51 mins       █████████████████████████   100.0%
 
 ```
 
@@ -103,5 +104,5 @@ Java                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 30/08/2022 02:05:02 UTC
+ Last Updated on 31/08/2022 02:12:15 UTC
 <!--END_SECTION:waka-->
