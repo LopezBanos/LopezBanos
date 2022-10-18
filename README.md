@@ -81,13 +81,13 @@ Sunday       16 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   36 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  36 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -103,5 +103,5 @@ Java                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 17/10/2022 02:17:22 UTC
+ Last Updated on 18/10/2022 02:05:13 UTC
 <!--END_SECTION:waka-->
