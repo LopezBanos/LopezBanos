@@ -96,13 +96,13 @@ No Activity Tracked This Week
 ```text
 Jupyter Notebook         9 repos             █████████████░░░░░░░░░░░░   52.94 % 
 Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Julia                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 ```
 
 
 
- Last Updated on 21/02/2023 01:18:10 UTC
+ Last Updated on 22/02/2023 01:13:39 UTC
 <!--END_SECTION:waka-->
