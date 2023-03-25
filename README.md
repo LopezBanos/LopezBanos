@@ -34,7 +34,7 @@ const LopezBanos = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -79,13 +79,13 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 51 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -101,5 +101,5 @@ Julia                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/03/2023 01:08:36 UTC
+ Last Updated on 25/03/2023 01:06:38 UTC
 <!--END_SECTION:waka-->
