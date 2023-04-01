@@ -7,7 +7,8 @@
 [![Linkedin: LopezBanos]([https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/sergio-lópez-baños/)
 ![GitHub followers](https://img.shields.io/github/followers/LopezBanos?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=LopezBanos.LopezBanos)
-[![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]]    
+[![]([https://img.shields.io/twitter/follow/lopezbanos_s?label=Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://twitter.com/intent/follow?screen_name=lopezbanos_s)   
+  
 
 
 ### 📫 Like to meet me?
