@@ -22,10 +22,10 @@ const LopezBanos = {
             ["Matplotlib", "Seaborn", "numpy",  "scipy", "open-cv", "TensorFlow", "Pandas"]
         },
         databases: ["PostgreSQL", "MySql"],
-        misc: ["Bash", "Arduino", "PyCharm", "CLion", "Serial Monitor"]
+        misc: ["Bash", "Arduino", "SLURM", "OpenStreetMap", "Remote Sensing", "CLion", "Serial Monitor"]
     },
-    currentFocus: "Building Convolutional Neural Networks",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "Master Thesis in Quantum Computing",
+    Quoting Seneca: "Luck is the intersection of preparation and opportunity."
 };
 ```
 
