@@ -21,10 +21,11 @@ const LopezBanos = {
         python_packages: {
             ["Matplotlib", "Seaborn", "numpy",  "scipy", "open-cv", "TensorFlow", "Pandas"]
         },
+        quantum_frameworks: {Ocean (D-Wave), Qiskit (IBM)},
         databases: ["PostgreSQL", "MySql"],
         misc: ["Bash", "Arduino", "SLURM", "OpenStreetMap", "Remote Sensing", "CLion", "Serial Monitor"]
     },
-    currentFocus: "Master Thesis in Quantum Computing",
+    currentFocus: "ELEVATE - Quantum Computing Project",
     Quoting Seneca: "Luck is the intersection of preparation and opportunity."
 };
 ```
