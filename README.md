@@ -3,13 +3,10 @@
 <p><em>Research physicist at <a href="https://www.dlr.de/DE/Home/home_node.html">German Aerospace Center (DLR)
 </em></p>
 
-## My social networking sites
-  ```bash
-  Linkedin: https://www.linkedin.com/in/sergio-lópez-baños/
-  ```
-
 ### 📫 Like to meet me?
+```bash
 Mail: sergioloba98@gmail.com
+```
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
