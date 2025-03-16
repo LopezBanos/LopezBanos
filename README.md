@@ -12,17 +12,17 @@ Mail: sergioloba98@gmail.com
 
 ```javascript
 const LopezBanos = {
-    code: ["C++", "Python", "R", "Fortran"],
-    askMeAbout: ["Quantum Physics", "tech", "Arduino Projects", "Games"],
+    code: ["Python"],
+    askMeAbout: ["Quantum Physics", "tech", "Games"],
     technologies: {
         python_packages: {
-            ["Matplotlib", "Seaborn", "numpy",  "scipy", "open-cv", "TensorFlow", "Pandas"]
+            ["Matplotlib", "Seaborn", "numpy", "scipy", "Pandas", "pdoc"]
         },
         quantum_frameworks: {Ocean (D-Wave), Qiskit (IBM)},
         databases: ["PostgreSQL", "MySql"],
-        misc: ["Bash", "Arduino", "SLURM", "OpenStreetMap", "Remote Sensing", "CLion", "Serial Monitor"]
+        misc: ["Bash", "SLURM", "OpenStreetMap", "Remote Sensing", "CLion", "Serial Monitor"]
     },
-    currentFocus: "ELEVATE - Quantum Computing Project",
+    currentFocus: "PhD Student in Quantum Computing",
     Quoting Seneca: "Luck is the intersection of preparation and opportunity."
 };
 ```
